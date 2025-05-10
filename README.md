@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Your Name
+🚀 Passionate Developer | 📊 Data Enthusiast | 🧠 Lifelong Learner
 
-<!--
-**viveks-002/viveks-002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+- 💻 Languages: Python, JavaScript, C++
+- 🌐 Web: React, Node.js, Express
+- 🛢️ DB: MongoDB, MySQL
+- ⚙️ Tools: Git, Docker, VS Code
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- **[Hotel Reservation System](https://github.com/viveks-002/HOTEL_RESERVATION_MANAGMENT)**: Short description + tech stack used.
+- **[Dukaan Konnect](https://github.com/viveks-002/Dukaan-Konnect)**: Short description + key features.
+
+## 📫 Let's Connect
+[LinkedIn](#https://www.linkedin.com/in/vivek-kumar-singh-01375829a/) | [Portfolio](#https://github.com/viveks-002) | [Twitter](#)
